@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @NUAA404
-- 👀 I’m a Student 
+- 👋 Hi, I’m Noor ul ain.
+- 👀 I’m a Student
 - 🌱 I’m currently studying Mechatronics Engineering
 - 💞️ I’m looking to collaborate on Automation and Microcontrollers
 
